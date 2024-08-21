@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left"> 👩‍💻 About me</h2>
 
 ###
 
-<p align="left">👩‍💻  About Me<br><br>📚 I'm currently stuying at PUC Minas<br>🎯 Goal: Looking for my first oportunity as a developer<br>✨Coding since 2022</p>
+<p align="left">📚 I'm currently stuying at PUC Minas<br>🎯 Goal: Looking for my first oportunity as a developer<br>✨Coding since 2022</p>
 
 ###
 
