@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pedro Lucas and I'm a Computer Engineering Student from Brazil</p>
+<p align="left">My name is Pedro Lucas and I'm a Computer Engineering Student</p>
 
 ###
 
