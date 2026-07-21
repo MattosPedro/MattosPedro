@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently studying at PUC Minas<br>🎯 Goal: Looking for my first oportunity as a developer<br>✨Coding since 2022</p>
+<p align="left">📚 I'm currently studying at PUC Minas<br>✨Coding since 2022</p>
 
 ###
 
