@@ -1,45 +1,116 @@
-<h1 align="left">Hey there </h1>
+<h1 align="center">Pedro Mattos</h1>
 
-###
+<p align="center">
+  <b>Engenheiro de Software @ Levty</b><br>
+  JavaScript · TypeScript · Angular · MongoDB · Elasticsearch<br>
+  Belo Horizonte, MG — Brasil
+</p>
 
-<p align="left">My name is Pedro Lucas and I'm a Computer Engineering Student</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-mattos-282718241"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:2003pedromattos@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
 
-###
+---
 
-<h2 align="left"> 👩‍💻 About me</h2>
+## Sobre
 
-###
+Engenheiro de Software na Levty desde fevereiro de 2025. Desenvolvimento ponta a ponta no ecossistema
+JavaScript/TypeScript: Angular no front, regras de negócio e APIs RESTful no back sobre a plataforma
+corporativa **SYDLE One**, com MongoDB e Elasticsearch. Base acadêmica em C/C++, Java e Python.
 
-<p align="left">📚 I'm currently studying at PUC Minas<br>✨Coding since 2022</p>
+## Stack
 
-###
+**Uso no dia a dia**
 
-<h2 align="left">I code with</h2>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![SYDLE One](https://img.shields.io/badge/SYDLE_One-0B5FFF?style=flat-square)
 
-###
+**Também trabalho com**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-###
+**Base acadêmica**
 
-<h2 align="left">Social Media:</h2>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-###
+## Projetos
 
-<div align="left">
-  <a href="www.linkedin.com/in/pedro-lucas-mattos-282718241" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+Projetos acadêmicos e pessoais da graduação:
 
-###
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| [LabHeatMap](https://github.com/MattosPedro/LabHeatMap) | App Android com mapa de calor da ocupação dos laboratórios da faculdade | Flutter / Dart |
+| [AgendaPorVoz](https://github.com/MattosPedro/AgendaPorVoz) | Agenda controlada por voz usando Azure Cognitive Services | C++ |
+| [ProjetoLivro](https://github.com/MattosPedro/ProjetoLivro) | Métodos de ordenação e estruturas de árvore sobre um acervo de livros | Java |
+| [SiteGames](https://github.com/MattosPedro/SiteGames) | Site de notícias e catálogo de jogos, publishers e consoles | HTML / CSS |
+
+> O trabalho que faço hoje é em repositórios privados de cliente, então o que está aqui é
+> majoritariamente acadêmico.
+
+## Formação e certificações
+
+- **Engenharia de Computação** — PUC Minas (2022 – nov/2026)
+- JavaScript e TypeScript do básico ao avançado
+- Conceitos e Fundamentos: Algoritmos, POO com Swift, JavaScript e RESTful APIs
+- **Inglês B2** — Certificate in English
+
+## GitHub
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MattosPedro&show_icons=true&hide_border=true&theme=github_dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=MattosPedro&show_icons=true&hide_border=true" alt="Estatísticas do GitHub" height="165">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MattosPedro&layout=compact&hide_border=true&theme=github_dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattosPedro&layout=compact&hide_border=true" alt="Linguagens mais usadas" height="165">
+  </picture>
+</p>
+
+---
+
+<details>
+<summary><b>🇺🇸 English</b></summary>
+
+<br>
+
+**Software Engineer @ Levty** — JavaScript · TypeScript · Angular · MongoDB · Elasticsearch
+Belo Horizonte, Brazil
+
+Software Engineer at Levty since February 2025. End-to-end development in the JavaScript/TypeScript
+ecosystem: Angular on the front, business rules and RESTful APIs on the back over the **SYDLE One**
+enterprise platform, with MongoDB and Elasticsearch. Academic background in C/C++, Java and Python.
+
+🎓 BSc in Computer Engineering at PUC Minas — graduating November 2026. English: B2.
+
+**Daily stack:** TypeScript, JavaScript, Angular, Node.js, MongoDB, Elasticsearch, SYDLE One
+**Also work with:** React, Next.js, HTML, CSS, SQL, Docker, Git
+**Academic background:** Java, Python, C, C++
+
+**Projects** (academic and personal — my professional work lives in private client repos)
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [LabHeatMap](https://github.com/MattosPedro/LabHeatMap) | Android app showing a heat map of campus lab occupancy | Flutter / Dart |
+| [AgendaPorVoz](https://github.com/MattosPedro/AgendaPorVoz) | Voice-controlled calendar built on Azure Cognitive Services | C++ |
+| [ProjetoLivro](https://github.com/MattosPedro/ProjetoLivro) | Sorting algorithms and tree structures over a book dataset | Java |
+| [SiteGames](https://github.com/MattosPedro/SiteGames) | News and catalog site for games, publishers and consoles | HTML / CSS |
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/pedro-mattos-282718241) or by [e-mail](mailto:2003pedromattos@gmail.com).
+
+</details>
