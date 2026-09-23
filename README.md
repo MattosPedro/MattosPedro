@@ -73,12 +73,19 @@ Projetos acadêmicos e pessoais da graduação:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MattosPedro&show_icons=true&hide_border=true&theme=github_dark">
-    <img src="https://github-readme-stats.vercel.app/api?username=MattosPedro&show_icons=true&hide_border=true" alt="Estatísticas do GitHub" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MattosPedro&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MattosPedro&theme=github" alt="Resumo do perfil no GitHub">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MattosPedro&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MattosPedro&theme=github" alt="Linguagens por repositório" height="200">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MattosPedro&layout=compact&hide_border=true&theme=github_dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattosPedro&layout=compact&hide_border=true" alt="Linguagens mais usadas" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MattosPedro&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MattosPedro&theme=github" alt="Linguagens por commit" height="200">
   </picture>
 </p>
 
