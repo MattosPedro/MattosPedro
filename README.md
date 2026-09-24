@@ -35,10 +35,12 @@ corporativa **SYDLE One**, com MongoDB e Elasticsearch. Base acadêmica em C/C++
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Base acadêmica**
@@ -50,7 +52,14 @@ corporativa **SYDLE One**, com MongoDB e Elasticsearch. Base acadêmica em C/C++
 
 ## Projetos
 
-Projetos acadêmicos e pessoais da graduação:
+> O trabalho focado em desenvolvimento corporativo e projetos maiores ocorre em repositórios privados. Abaixo, destaco minha atuação em iniciativas arquiteturais, projetos independentes e acadêmicos.
+
+### 🚀 Destaque: AproveMED
+Atuo como co-owner e mantenedor na organização [AproveMED-ED](https://github.com/AproveMED-ED) (Plataforma de preparação para o ENAMED). 
+*   Participei ativamente da reescrita total do backend e da migração da infraestrutura de BaaS (Supabase) para cloud própria (AWS)[cite: 2], garantindo *zero downtime* na migração de milhares de questões e assinaturas ativas[cite: 2].
+*   **Stack:** Arquitetura própria em Node.js e TypeScript[cite: 2], PostgreSQL, Redis, infraestrutura AWS (EC2, S3) via Docker/Caddy[cite: 2], e pipeline CI/CD robusto com ~3.200 testes automatizados (unitários e integração)[cite: 2].
+
+### Repositórios Acadêmicos e Pessoais
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
@@ -58,9 +67,6 @@ Projetos acadêmicos e pessoais da graduação:
 | [AgendaPorVoz](https://github.com/MattosPedro/AgendaPorVoz) | Agenda controlada por voz usando Azure Cognitive Services | C++ |
 | [ProjetoLivro](https://github.com/MattosPedro/ProjetoLivro) | Métodos de ordenação e estruturas de árvore sobre um acervo de livros | Java |
 | [SiteGames](https://github.com/MattosPedro/SiteGames) | Site de notícias e catálogo de jogos, publishers e consoles | HTML / CSS |
-
-> O trabalho que faço hoje é em repositórios privados de cliente, então o que está aqui é
-> majoritariamente acadêmico.
 
 ## Formação e certificações
 
@@ -106,10 +112,17 @@ enterprise platform, with MongoDB and Elasticsearch. Academic background in C/C+
 🎓 BSc in Computer Engineering at PUC Minas — graduating November 2026. English: B2.
 
 **Daily stack:** TypeScript, JavaScript, Angular, Node.js, MongoDB, Elasticsearch, SYDLE One
-**Also work with:** React, Next.js, HTML, CSS, SQL, Docker, Git
+**Also work with:** React, PostgreSQL, Redis, Docker, AWS, GitHub Actions
 **Academic background:** Java, Python, C, C++
 
-**Projects** (academic and personal — my professional work lives in private client repos)
+**Projects** (my professional corporate work lives in private client repos. Below are architectural, independent, and academic highlights)
+
+### 🚀 Highlight: AproveMED
+Co-owner and maintainer at [AproveMED-ED](https://github.com/AproveMED-ED) (Preparation platform for ENAMED).
+* Actively participated in the total rewrite of the backend and infrastructure migration from BaaS (Supabase) to a custom AWS cloud architecture, ensuring zero downtime while migrating thousands of questions and active subscriptions.
+* **Stack:** Custom Node.js & TypeScript architecture, PostgreSQL, Redis, AWS (EC2, S3) via Docker/Caddy, and a robust CI/CD pipeline running ~3,200 automated tests.
+
+### Academic & Personal Repositories
 
 | Project | What it is | Stack |
 | --- | --- | --- |
